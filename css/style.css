@@ -429,6 +429,8 @@ h5 {
     display: table;
     height: 100vh;
     width: 100%;
+    font-family: "Poppins";
+    font-weight: bold;
 }
 
 .box-intro .table-cell {
@@ -1188,7 +1190,7 @@ textarea:focus {
     font-size: 25px;
     color: #539BF9;
     font-style: normal;
-    font-family: "SF Pro Text";
+    font-family: "Poppins";
     font-weight: bold;
 }
 
@@ -1199,7 +1201,7 @@ textarea:focus {
   font-size: 25px;
   color: #539BF9;
   font-style: normal;
-  font-family: "SF Pro Text";
+  font-family: "Poppins";
   font-weight: bold;
 
 }
@@ -1220,7 +1222,7 @@ html {
 
 body {
   font-size: 1.6rem;
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #383838;
   background-color: #f8f8f8;
 }
@@ -1508,7 +1510,7 @@ Main Components
 .cd-horizontal-timeline .events-content h2 {
   font-weight: bold;
   font-size: 2.6rem;
-  font-family: "Playfair Display", serif;
+  font-family: "Poppins", serif;
   font-weight: 700;
   line-height: 1.2;
 }
@@ -1614,4 +1616,26 @@ Main Components
     -o-transform: translateX(0%);
     transform: translateX(0%);
   }
+}
+
+.w1-container{
+  padding-left: 300px;
+  padding-right: 300px;
+  font-size: 25px;
+  font-weight:bold;
+}
+
+.w3-container{
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
+.w2-container{
+  font-size: 100px;
+  font-family: "Poppins";
+  padding-top: 200px;
+  text-indent: 250px;
+  font-weight: bolder;
+  padding-left: 200px;
+  padding-right: 200px;
 }
