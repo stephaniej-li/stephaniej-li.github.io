@@ -1625,6 +1625,15 @@ Main Components
   font-weight:bold;
 }
 
+.w5-container{
+  text-align: center;
+  padding-bottom: 300px;
+  padding-left: 300px;
+  padding-right: 300px;
+  font-size: 25px;
+  font-weight:bold;
+}
+
 .w3-container{
   padding-left: 300px;
   padding-right: 300px;
