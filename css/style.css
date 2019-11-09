@@ -1622,6 +1622,7 @@ Main Components
 .w1-container{
   padding-left: 300px;
   padding-right: 300px;
+  text-align: center;
   font-size: 25px;
   font-weight:bold;
 }
@@ -1654,4 +1655,10 @@ Main Components
   font-weight: bolder;
   padding-left: 200px;
   padding-right: 200px;
+}
+
+.w9-container{
+  padding-left: 300px;
+
+
 }
