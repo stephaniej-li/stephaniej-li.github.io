@@ -52,6 +52,7 @@ body {
 
 .main-container {
     padding: 100px 0;
+    padding-top: 100px;
 }
 
 .center {
@@ -1637,6 +1638,12 @@ Main Components
 .w3-container{
   padding-left: 300px;
   padding-right: 300px;
+}
+
+.w6-container{
+  padding-left: 200px;
+  padding-right: 200px;
+
 }
 
 .w2-container{
