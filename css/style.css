@@ -1662,3 +1662,22 @@ Main Components
 
 
 }
+
+.w7-container{
+padding-left: 450px;
+align-items: center;
+position: relative;
+align-content: center;
+padding-top: 75px;
+padding-bottom: 75px;
+}
+
+.stephanie{
+  position: absolute;
+  font-family:"Poppins";
+  font-size: 30px;
+  font-weight: bold;
+  padding: 50px;
+  padding-top: 20px;
+
+}
